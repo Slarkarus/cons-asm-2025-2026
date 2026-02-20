@@ -16,6 +16,6 @@ Consultations for HSE course "Computer Architecture and Assembly Language".
 Чтобы команда заработала, нужно:
 1. Установить `Make`
 2. Установить компилятор `gcc`/`clang`
-3. Установить `objconv`, если её нет в системе
+3. Установить `objconv`
 4. Создать в этой папке файл `main.c`, с конвертируемым кодом
 5. Прописать в консоли `make`
